@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVPTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">Entry Form</string>
+    <string name="entry_full_name_hint">Full Name</string>
+    <string name="entry_email_address_hint">Email Adress</string>
+    <string name="entry_phone_number_hint">Phone number</string>
+    <string name="entry_company_hint">Company</string>
+    <string name="submit_entry_text">Submit Entry</string>
+    <string name="entry_valid_text">Your entry is valid</string>
+    <string name="entry_invalid_text">Your entry is invalid</string>
+
+</resources>

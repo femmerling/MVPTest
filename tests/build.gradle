@@ -1,0 +1,13 @@
+evaluationDependsOn(':app')
+ext.androidProject = 'app'
+apply plugin: 'cobertura'
+apply plugin: 'com.kageiit.robojava'
+
+cobertura {
+    coverageFormats = ['html', 'xml']
+    coverageIgnoreTrivial = true
+    coverageIgnores = ['org.slf4j.Logger.*']
+    coverageReportDir = new File("$buildDir/reports/cobertura")
+}
+
+test.finalizedBy(project.tasks.cobertura)

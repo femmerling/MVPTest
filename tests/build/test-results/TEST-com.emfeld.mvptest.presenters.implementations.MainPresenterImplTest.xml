@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2015-01-29T09:20:51" hostname="godwit.local" time="5.387">
+  <properties/>
+  <testcase name="testValidateFormCompanyEmpty" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="5.232"/>
+  <testcase name="testValidateFormEmailEmpty" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.016"/>
+  <testcase name="testPhoneFieldChanged" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.019"/>
+  <testcase name="testEmailFieldChanged" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.02"/>
+  <testcase name="testValidateFormPhoneEmpty" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.014"/>
+  <testcase name="testValidateFormSuccess" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.015"/>
+  <testcase name="testNameFieldChanged" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.014"/>
+  <testcase name="testValidateFormNameEmpty" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.018"/>
+  <testcase name="testCompanyFieldChanged" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.021"/>
+  <testcase name="testValidateFormEmpty" classname="com.emfeld.mvptest.presenters.implementations.MainPresenterImplTest" time="0.016"/>
+  <system-out><![CDATA[WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+WARNING: No manifest file found at ./AndroidManifest.xml.Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+]]></system-out>
+  <system-err><![CDATA[WARNING: no system properties value for ro.build.date.utc
+]]></system-err>
+</testsuite>
